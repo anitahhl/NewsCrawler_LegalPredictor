@@ -1,4 +1,4 @@
-# News Crawler & Judgement Predictor
+# News Crawler & Legal Predictor
 
 關鍵字詞｜爬蟲、文字探勘、CKIP、BERT
 
